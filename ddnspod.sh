@@ -19,7 +19,7 @@ arToken="404643,5521727f97c3019bfc82451c6cf1bc4c"
 # you can have multiple arDdnsCheck blocks
 
 # IPv4:
-arDdnsCheck "l521528.ml" "subdomain"
+arDdnsCheck "kellyll.ml" "subdomain"
 
 # IPv6:
-arDdnsCheck "l521528.ml" "subdomain6" 6
+arDdnsCheck "kellyll.ml" "subdomain6" 6
